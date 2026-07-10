@@ -1,0 +1,6 @@
+{
+  "name": "Express-Bite University",
+  "description": "Sistema de gestión de cafetería universitaria",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
